@@ -153,7 +153,7 @@ local HITBOX_DETECT_RADIUS = 6
 local Dspeed = 5.6 -- you can tweak these numbers
 local Ddelay = 0
 
-local killerNames = {"c00lkidd", "Jason", "JohnDoe", "1x1x1x1", "Noli", "Slasher", "Sixer", "Nos"}
+local killerNames = {"c00lkidd", "Jason", "JohnDoe", "1x1x1x1", "Noli", "Slasher", "Sixer", "Nosferatu"}
 local autoPunchOn = false
 local messageWhenAutoPunchOn = false
 local messageWhenAutoPunch = ""
